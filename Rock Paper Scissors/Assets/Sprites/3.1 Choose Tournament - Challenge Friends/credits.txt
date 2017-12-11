@@ -1,0 +1,7 @@
+credits
+
+font Blanch
+
+size 145 pt
+
+colour ffffff

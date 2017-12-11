@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 488c15544f5347c4b87a41839894fba6
+timeCreated: 1490116260
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mensch
+  fontNames:
+  - Mensch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

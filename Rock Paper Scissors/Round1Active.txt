@@ -1,0 +1,38 @@
+{
+  "id": "xxx",
+  "status": "xxx",
+  "game_type": "W",
+  "game_description": "text",
+  "next_event_in": "10",
+  "play": {
+   "number": "play.number",
+   "status": "play.status",
+   "round": {
+    "number": "1",
+    "status": "A",
+	    "participants":[
+     {
+      "profile_id": "100000633494739",
+      "type":"play_selection.type",
+      "current_selection": "N",
+      "result": "play_selection.result",
+      "status":"" 
+     },
+     {
+      "profile_id": "1422603824437387",
+      "type":"play_selection.type",
+      "current_selection": "N",
+      "result": "play_selection.result",
+      "status":"" 
+     },
+     {
+      "profile_id": "100000633494737",
+      "type":"play_selection.type",
+      "current_selection": "N",
+      "result": "play_selection.result",
+      "status":"" 
+     }
+    ]  
+   }
+  }
+ }
