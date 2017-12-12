@@ -8,7 +8,7 @@ using UnityEngine;
     public class API:MonoBehaviour
     {
         private string results;
-        private const string domain = "http://api.rpschallenge.it";
+        private const string domain = "";
         public String Results
         {
             get
